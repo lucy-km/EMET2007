@@ -1,15 +1,3 @@
----
-title: 第一周笔记
-layout: default
----
----
-layout: default
----
-
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
 
 # 📊 第一周：随机变量和概率分布
 
@@ -141,14 +129,18 @@ $$
 
 ### 🎯 正态分布（Normal Distribution）
 - 具有 **钟形曲线**（Bell Curve）。
-- 记作：\( N(\mu, \sigma^2) \)。
+- 记作：
+  $$ 
+  N(\mu, \sigma^2)
+  $$
+
 - **标准正态分布**：
-  - \( N(0,1) \)（均值 0，方差 1）
+  - $$ N(0,1) $$（均值 0，方差 1）
   - 用标准化公式转换：
-    
     $$
     Z = \frac{Y - \mu}{\sigma}
     $$
+
 
 ### 📌 t 分布（Student t Distribution）
 - **用于小样本假设检验**。
