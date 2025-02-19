@@ -2,6 +2,14 @@
 title: 第一周笔记
 layout: default
 ---
+---
+layout: default
+---
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 
 # 📊 第一周：随机变量和概率分布
 
